@@ -1,7 +1,7 @@
 
 PopX is a React-based web application that enables users to easily create accounts, log in, and access their profiles, providing a seamless user registration and authentication experience.
 
-[Click here to visit WebPage](https://popx0126.netlify.app/profile)
+[Click here to visit WebPage](https://popx0126.netlify.app/)
 
 I've created this project while learnging  **React** And if you like this project then ADD a STAR ⭐️  to this project 👆
 
