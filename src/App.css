@@ -95,7 +95,7 @@ nav {
 }
 .profile-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   width: 100%;
 }
 .info h2 {
@@ -112,7 +112,7 @@ nav {
   display: inline-block;
 }
 .info {
-  margin-left: 10px;
+  margin-left: 0px;
   margin-top: 25px;
 }
 .profile-image {
