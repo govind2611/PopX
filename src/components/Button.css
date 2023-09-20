@@ -1,0 +1,23 @@
+button{
+    border-radius: 0.5rem;
+    padding: 0.45rem;
+    border: none;
+    width:100%;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    background-color: #cebafb;
+    color: #010003;
+    cursor: pointer;
+        
+}
+button:hover{
+    background-color: #b6a3e3;
+}
+.create-button{
+    background-color: #6c25ff;
+    color: #eae0ff;
+}
+
+.create-button:hover{
+background-color: #3f0e9f;
+}
